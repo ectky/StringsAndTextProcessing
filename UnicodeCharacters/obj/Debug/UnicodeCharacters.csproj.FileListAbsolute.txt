@@ -1,0 +1,5 @@
+D:\VSProjects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\VSProjects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\VSProjects\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\VSProjects\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\VSProjects\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

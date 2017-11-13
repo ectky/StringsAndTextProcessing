@@ -1,0 +1,5 @@
+D:\VSProjects\StringsAndTextProcessing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe.config
+D:\VSProjects\StringsAndTextProcessing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.exe
+D:\VSProjects\StringsAndTextProcessing\MultiplyBigNumber\bin\Debug\MultiplyBigNumber.pdb
+D:\VSProjects\StringsAndTextProcessing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.exe
+D:\VSProjects\StringsAndTextProcessing\MultiplyBigNumber\obj\Debug\MultiplyBigNumber.pdb

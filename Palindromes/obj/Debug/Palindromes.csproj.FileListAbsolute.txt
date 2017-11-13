@@ -1,0 +1,6 @@
+D:\VSProjects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe.config
+D:\VSProjects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.exe
+D:\VSProjects\StringsAndTextProcessing\Palindromes\bin\Debug\Palindromes.pdb
+D:\VSProjects\StringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+D:\VSProjects\StringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.exe
+D:\VSProjects\StringsAndTextProcessing\Palindromes\obj\Debug\Palindromes.pdb

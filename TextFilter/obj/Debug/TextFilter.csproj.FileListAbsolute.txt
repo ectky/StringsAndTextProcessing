@@ -1,0 +1,5 @@
+D:\VSProjects\StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe.config
+D:\VSProjects\StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.exe
+D:\VSProjects\StringsAndTextProcessing\TextFilter\bin\Debug\TextFilter.pdb
+D:\VSProjects\StringsAndTextProcessing\TextFilter\obj\Debug\TextFilter.exe
+D:\VSProjects\StringsAndTextProcessing\TextFilter\obj\Debug\TextFilter.pdb
