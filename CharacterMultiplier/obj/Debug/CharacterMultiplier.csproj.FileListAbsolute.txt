@@ -1,0 +1,6 @@
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+D:\VSProjects\StringsAndTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

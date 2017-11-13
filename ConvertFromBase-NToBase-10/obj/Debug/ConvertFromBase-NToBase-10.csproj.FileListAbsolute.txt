@@ -1,0 +1,6 @@
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe.config
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.exe
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\bin\Debug\ConvertFromBase-NToBase-10.pdb
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\obj\Debug\ConvertFromBase-NToBase-10.csprojResolveAssemblyReference.cache
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\obj\Debug\ConvertFromBase-NToBase-10.exe
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-NToBase-10\obj\Debug\ConvertFromBase-NToBase-10.pdb

@@ -1,0 +1,5 @@
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-10ToBase-N\bin\Debug\ConvertFromBase-10ToBase-N.exe.config
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-10ToBase-N\bin\Debug\ConvertFromBase-10ToBase-N.exe
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-10ToBase-N\bin\Debug\ConvertFromBase-10ToBase-N.pdb
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-10ToBase-N\obj\Debug\ConvertFromBase-10ToBase-N.exe
+D:\VSProjects\StringsAndTextProcessing\ConvertFromBase-10ToBase-N\obj\Debug\ConvertFromBase-10ToBase-N.pdb

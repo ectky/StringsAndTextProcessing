@@ -1,0 +1,5 @@
+D:\VSProjects\StringsAndTextProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe.config
+D:\VSProjects\StringsAndTextProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.exe
+D:\VSProjects\StringsAndTextProcessing\CountSubstringOccurrences\bin\Debug\CountSubstringOccurrences.pdb
+D:\VSProjects\StringsAndTextProcessing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.exe
+D:\VSProjects\StringsAndTextProcessing\CountSubstringOccurrences\obj\Debug\CountSubstringOccurrences.pdb
